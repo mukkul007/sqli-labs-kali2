@@ -4,7 +4,7 @@ SQLi-Labs by AUDI-1 has been our friend since the days of backtrack and it has h
 
 I have updated the code so as to make it run on Kali 2.0 so that all of us can use the same labs once again and continue to learn sql injection on Kali 2.0
 
-========================================================================================
+============================================================================
 Install Instructions:
 
 1. Unzip the contents inside the apache folder, for example under /var/www/html
@@ -18,7 +18,7 @@ Install Instructions:
 8. Labs ready to be used, click on lesson number to open the lesson page.
 9. Enjoy the labs
 
-=======================================================================================
+============================================================================
 SQLI-LABS is a platform to learn SQLI 
 Following labs are covered for GET and POST scenarios:
 
@@ -52,4 +52,4 @@ Following labs are covered for GET and POST scenarios:
 and many more have been covered. Have a look at all the sections by using the labs.
 
 
-==========================================================================================
+============================================================================
