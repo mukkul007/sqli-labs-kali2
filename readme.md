@@ -13,8 +13,8 @@ Install Instructions:
 2. This will create a folder sql-labs under it. else you can use git command from within /var/www/html folder.
 /var/www/html folder and then use following command> https://github.com/mukkul007/sqli-labs-kali2.git sqli-labs
 3. Open the file "db-creds.inc" which is under sql-connections folder inside the sql-labs folder.
-4. Update your MYSQL database username and password.(default for Kali are used root:<no password>)
-*note: 5. Since, there is no password on mysql/mariaDB on kali linux you can use below link to change your mysql password in order to use it in the 4th step. (https://www.digitalocean.com/community/tutorials/how-to-reset-your-mysql-or-mariadb-root-password)
+4. Update your MYSQL database username and password.(default for Kali are used root:{no password is there by default})
+5. Since, there is no password on mysql/mariaDB on kali linux you can use below link to change your mysql password in order to use it in the 4th step. (https://www.digitalocean.com/community/tutorials/how-to-reset-your-mysql-or-mariadb-root-password)
 6. From your browser access the sql-labs folder to load index.html
 7. Click on the link setup/resetDB to create database, create tables and populate Data.
 8. Labs ready to be used, click on lesson number to open the lesson page.
