@@ -5,6 +5,8 @@ SQLi-Labs by AUDI-1 has been our friend since the days of backtrack and it has h
 I have updated the code so as to make it run on Kali 2.0 so that all of us can use the same labs once again and continue to learn sql injection on Kali 2.0
 
 ============================================================================
+
+
 Install Instructions:
 
 1. Unzip the contents inside the apache folder, for example under /var/www/html
